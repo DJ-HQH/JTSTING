@@ -1,8 +1,10 @@
 git add .                       (Para mandar todos los archivos al espacio temporal)
 git add "Nombre del archivo"    (Manda un archivo a temporales)
 
-git commit -m                   (se suben cambios para remoto con un mensaje identificador )
+git commit -m "..."                  (se suben cambios para remoto con un mensaje identificador )
 git init 
 git log --oneline               (Ver todas lkas versiones)
+git status -s                   (Revisa el estado de todos los documentos)
 
 git push                        (sube todo lkos archiivos al git)
+git pull                        (Trae todo lo creado en el github)
