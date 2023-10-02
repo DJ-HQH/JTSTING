@@ -14,3 +14,4 @@ git pull                        (Trae todo lo creado en el github)
 ---------------------------------------------------------------------------------
 git branch (...)                (Crea un branch con el nombre inidcado dentro del parentesis, NOTA: El parentesis no va, solo el nombre)
 git checkout (...)              (Cambia entre versiones del branch)
+git merge (...)                 (Migra los coambios de un branch a otro y actualiza automaticamente)
