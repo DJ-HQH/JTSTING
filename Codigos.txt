@@ -9,5 +9,7 @@ git init
 git log --oneline               (Ver todas lkas versiones)
 git status -s                   (Revisa el estado de todos los documentos)
 
-git push                        (sube todo lkos archiivos al git)
+git push                        (sube todo los archivos al git)
 git pull                        (Trae todo lo creado en el github)
+---------------------------------------------------------------------------------
+git branch (...)                (Crea un branch con el nombre inidcado dentro del parentesis, NOTA: El parentesis no va, solo el nombre)
