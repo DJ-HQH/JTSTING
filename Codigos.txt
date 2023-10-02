@@ -1,7 +1,10 @@
+git config user.name "..."      (Crea el nombre de usuario)
+git config user.email "..."     (Asignar el correo del user)
+
 git add .                       (Para mandar todos los archivos al espacio temporal)
 git add "Nombre del archivo"    (Manda un archivo a temporales)
 
-git commit -m "..."                  (se suben cambios para remoto con un mensaje identificador )
+git commit -m "..."             (se suben cambios para remoto con un mensaje identificador )
 git init 
 git log --oneline               (Ver todas lkas versiones)
 git status -s                   (Revisa el estado de todos los documentos)
